@@ -33,7 +33,7 @@
     <h3>Sample Web App</h3>
     <!-- Insertar imagen aqui -->
 
-
+    <img src="https://verazinforma.com/wp-content/uploads/2018/06/zague-video-intimo-esposa-paola-verazinforma.jpg" />
   </main>
                 
   <footer class="footer">
